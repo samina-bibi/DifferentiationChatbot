@@ -1,3 +1,2 @@
 # DifferentiationChatbot
-
-To run this program, the main method is in DifferentationChatbot.java file.
+The executable for the program can be found in the dist folder.
